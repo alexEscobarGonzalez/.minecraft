@@ -1,0 +1,14 @@
+{
+  "accounts": {
+    "bf20048ca55a322ca1005493e7b87286": {
+      "displayName": "alex",
+      "type": "xbox",
+      "userid": "bf20048ca55a322ca1005493e7b87286",
+      "uuid": "bf20048ca55a322ca1005493e7b87286",
+      "username": "alex",
+      "refreshToken": "0f31dd0aea19bd04915b5b2c4efb9e7e636c293ee1936f5d1357bbf569e53aaf"
+    }
+  },
+  "activeAccountLocalId": "bf20048ca55a322ca1005493e7b87286",
+  "mojangClientToken": ""
+}
