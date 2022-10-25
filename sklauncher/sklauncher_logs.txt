@@ -1,0 +1,46 @@
+[SKL Updater] SKlauncher 3.0.0-beta.21+build.0
+[SKL Updater] 25.10.2022 16:35:19
+[SKL Updater] System.getProperty('os.name') == 'Windows 11'
+[SKL Updater] System.getProperty('os.version') == '10.0'
+[SKL Updater] System.getProperty('os.arch') == 'x86'
+[SKL Updater] System.getProperty('java.version') == '1.8.0_351'
+[SKL Updater] System.getProperty('java.vendor') == 'Oracle Corporation'
+[SKL Updater] System.getProperty('sun.arch.data.model') == '32'
+[SKL Updater] Initializing connection..
+[SKL Updater] Checking connection..
+[SKL Updater] Connecting... (https://files.skmedix.pl/servers.json)
+[SKL Updater] Response code: 200 - online
+[SKL Updater] Server list found..
+[SKL Updater] Checking "stable" server..
+[SKL Updater] Connecting... (https://files.skmedix.pl/version-github.json)
+[SKL Updater] Response code: 200 - online
+[SKL Updater] Chosen server: (stable)
+[SKL Updater] Checking version..
+[SKL Updater] 3.0.0-beta.21+build.0
+[SKL Updater] 3.0.0-beta.21
+[SKL Updater] Validating files..
+[SKL Updater] Starting the launcher..
+[16:35:20 INFO]: SKlauncher 3.0-8d32f7b started on windows...
+[16:35:20 INFO]: Current time is Oct 25, 2022 4:35:20 PM
+[16:35:20 INFO]: System.getProperty('os.name') == 'Windows 11'
+[16:35:20 INFO]: System.getProperty('os.version') == '10.0'
+[16:35:20 INFO]: System.getProperty('os.arch') == 'x86'
+[16:35:20 INFO]: System.getProperty('java.version') == '1.8.0_351'
+[16:35:20 INFO]: System.getProperty('java.vendor') == 'Oracle Corporation'
+[16:35:20 INFO]: System.getProperty('sun.arch.data.model') == '32'
+[16:35:20 INFO]: proxy == DIRECT
+[16:35:20 INFO]: Refreshing local version list...
+[16:35:20 INFO]: No profiles found, creating default profile
+[16:35:20 INFO]: Adding profile '(Default)'
+[16:35:20 INFO]: Setting selected profile to '(Default)'
+[16:35:20 INFO]: Refreshing remote version list...
+[16:35:21 INFO]: Refresh complete.
+[16:35:21 INFO]: Loaded 1 account(s)
+[16:35:21 INFO]: Loading avatar for user 'alex'
+[16:35:21 INFO]: Loaded 5 profile(s); selected 'prueba'
+[16:35:21 INFO]: Refreshing auth...
+[16:35:21 INFO]: Logging in with username in offline mode
+[16:35:21 INFO]: Loaded skin for user 'alex' successfully
+[16:35:26 INFO]: Window closed, shutting down.
+[16:35:26 INFO]: Awaiting termination.
+[16:35:26 INFO]: Goodbye.

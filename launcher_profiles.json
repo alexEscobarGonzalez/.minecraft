@@ -12,7 +12,7 @@
       "launcherVisibilityOnGameClose": "hide launcher and re-open when game closes",
       "type": "custom",
       "created": "2022-10-25T03:15:43+02:00",
-      "lastUsed": "2022-10-25T03:19:18+02:00"
+      "lastUsed": "2022-10-25T15:47:18+02:00"
     },
     "504bc9eff163400ebade3c5b3c3ab025": {
       "name": "(Default)",
@@ -33,6 +33,12 @@
       "type": "custom",
       "created": "2022-10-25T03:06:44+02:00",
       "lastUsed": "2022-10-25T03:06:44+02:00"
+    },
+    "c89776e70b694fb99f41a4b66cc17cea": {
+      "name": "(Default)",
+      "type": "custom",
+      "created": "2022-10-25T16:27:17+02:00",
+      "lastUsed": "2022-10-25T16:27:17+02:00"
     }
   },
   "selectedProfile": "8541a20d5e834d44b44a8f1fec7d3f02",
